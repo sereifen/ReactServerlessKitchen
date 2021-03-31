@@ -28,7 +28,7 @@ class Home extends Component {
             this.Ping();
           }}
         >
-          <i class="material-icons">Ping </i>
+          <i className="material-icons">Ping </i>
         </button>
         <br />
         <br />
@@ -38,7 +38,7 @@ class Home extends Component {
             this.Clear();
           }}
         >
-          <i class="material-icons">Clear </i>
+          <i className="material-icons">Clear </i>
         </button>
         <br />
         <br />
@@ -47,7 +47,7 @@ class Home extends Component {
             this.OptimizeWaste();
           }}
         >
-          <i class="material-icons">OptimizeWaste </i>
+          <i className="material-icons">OptimizeWaste </i>
         </button>
         <br />
         <br />
@@ -57,7 +57,7 @@ class Home extends Component {
             this.OptimizeCount();
           }}
         >
-          <i class="material-icons">OptimizeCount </i>
+          <i className="material-icons">OptimizeCount </i>
         </button>
         <br />
         <br />
@@ -67,7 +67,7 @@ class Home extends Component {
             this.CountByRecipe();
           }}
         >
-          <i class="material-icons">CountByRecipe </i>
+          <i className="material-icons">CountByRecipe </i>
         </button>
         <br />
       </div>
